@@ -4,7 +4,7 @@ title: REACH Bytes
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Hero title
@@ -22,6 +22,9 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+        - title: Page B
+          description: Page B is important too
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -32,4 +35,10 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
