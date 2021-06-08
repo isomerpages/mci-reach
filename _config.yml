@@ -2,8 +2,8 @@ title: REACH Bytes
 url: ""
 favicon: /images/favicon.ico
 colors:
-  primary-color: "#0DB14B"
-  secondary-color: "#F47920"
+  primary-color: "#1eb34b"
+  secondary-color: "#f67921"
   media-colors:
     - title: media-color-one
       color: "#14c8cf"
