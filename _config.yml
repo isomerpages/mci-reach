@@ -50,5 +50,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://mci-reach-staging.netlify.app
-prod: https://mci-reach-prod.netlify.app
+staging: https://staging.d1zjhna3vapf21.amplifyapp.com/
+prod: https://master.d1zjhna3vapf21.amplifyapp.com/
