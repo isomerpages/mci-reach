@@ -1,0 +1,10 @@
+logo: /images/20210412_New_REACH_Logo.png
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Example Page
+    url: /example-page/
+  - title: Example Collection
+    collection: example-collection
+  - title: Example Resource
+    resource_room: true
